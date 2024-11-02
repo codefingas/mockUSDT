@@ -1,0 +1,12 @@
+{
+  "name": "mockUSDT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codefingas/mockUSDT.git",
+  "author": "<udohezekiel34@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "@truffle/hdwallet-provider": "^2.1.15"
+  }
+}
